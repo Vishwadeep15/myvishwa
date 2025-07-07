@@ -1,3 +1,3 @@
 # myvishwa
-this is private repo for persnal use
-for practising basics of git and github
+this is private repo for persnal use <br>
+for practising basics of git and github<br>
